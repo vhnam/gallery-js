@@ -18,7 +18,7 @@ var photos = [
 var gallery = new Gallery('root', 3000, photos);
 ```
 
-###HTML
+### HTML
 ```html
 <html>
     <head>
