@@ -1,0 +1,12 @@
+body {
+    background-image: url(http://www.luxuryroomdecor.com/mediaimages/products__floorsqaurewww-luxuryroomdecor-com.jpg);
+    background-repeat: space;
+}
+
+.gallery {
+    width: 20rem;
+}
+
+.gallery .gallery__item-image {
+    width: 30rem;
+}
