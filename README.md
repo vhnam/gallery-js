@@ -32,3 +32,6 @@ var gallery = new Gallery('root', 3000, photos);
     </body>
 </html>
 ```
+
+### Demo
+Link: [https://www.youtube.com/watch?v=XLkBZLYnfu4](https://www.youtube.com/watch?v=XLkBZLYnfu4)
